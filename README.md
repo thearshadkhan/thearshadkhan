@@ -76,8 +76,8 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=thearshadkhan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Arshad-Khan" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thearshadkhan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Arshad-Khan" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=thearshadkhan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TheArshadKhan" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thearshadkhan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TheArshadKhan" /></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@ Recently I have started a Community <b> TECHBENCHERS </b>to help fellow mates.Jo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thearshadkhan&theme=dark" alt="The-Arshad-Khan" /></p>
   </div>
 
-[![The-Arshad-Khan's GitHub | Stats](https://stats.quine.sh/thearshadkhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=The-Arshad-Khan)
+[![The-Arshad-Khan's GitHub | Stats](https://stats.quine.sh/thearshadkhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=TheArshadKhan)
 
 <a href="https://github.com/thearshadkhan?tab=followers"><img src="https://img.shields.io/github/followers/The-Arshad-Khan?label=Followers&style=social" alt="GitHub Badge"></a>
 
