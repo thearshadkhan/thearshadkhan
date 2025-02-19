@@ -1,34 +1,73 @@
-<h1 align="center">Hi 👋, I'm Arshad Khan</h1>
-<h3 align="center">An Aspiring MERN stack developer</h3>
+<!-- header image -->
+<a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thearshadkhan&label=Profile%20views&color=0e75b6&style=flat" alt="thearshadkhan" /> </p>
+<!-- Introduction -->
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank">Arshad Khan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<img width="40%" align="right" src="code.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thearshadkhan" alt="thearshadkhan" /></a> </p>
+A Small Introduction of Myself, I am <b>Arshad Khan</b>, a Computer Science graduate from Dr. APJ Abdul Kalam Technical University, Lucknow. Currently, I am focused on <b>Full-Stack Web Development (MERN Stack), Artificial Intelligence, and Software Engineering</b> while continuously exploring other emerging technologies. ⚡
 
-<p align="left"> <a href="https://twitter.com/arshad_twt" target="blank"><img src="https://img.shields.io/twitter/follow/arshad_twt?logo=twitter&style=for-the-badge" alt="arshad_twt" /></a> </p>
+<h3 align="center">A Passionate MERN Stack Developer | Artificial Intelligence Enthusiast | Researcher</h3>
 
-- 🌱 I’m currently learning **MERN**
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=thearshadkhan&label=Profile%20views&color=6805D3&style=flat" alt="ArshadKhan" /> </p></h3>
 
-- 👨‍💻 All of my projects are available at [bento.me/arshadkhan](bento.me/arshadkhan)
+<div align="center">
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Python, Java**
+<h1>Technical Skills 🛠</h1>
 
-- 📫 How to reach me **arshad.cse24@gmail.com**
+I have experience in full-stack web development with a focus on the MERN stack. I have also worked on various projects involving Artificial Intelligence and Cloud Technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arshad_twt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshad_twt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/the-arshad-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-arshad-khan" height="30" width="40" /></a>
-<a href="https://instagram.com/the.arshad.khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.arshad.khan" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/thearshadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/thearshadkhan" height="30" width="40" /></a>
-<a href="https://www.behance.net/arshadkhan182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arshadkhan182" height="30" width="40" /></a>
+<b>Tech Stack:</b> MERN Stack (MongoDB, Express.js, React.js, Node.js), Redux, Redux Toolkit, GraphQL, ECMAScript, JavaScript, Firebase, SQL, Microsoft Azure, Google Cloud, TensorFlow, OpenCV.
+
+<b>Known Languages:</b> JavaScript, Python, C++, C, HTML, CSS.
+
+<p align="center">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="ECMAScript" src="https://img.shields.io/badge/ECMAScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Projects</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thearshadkhan&show_icons=true&locale=en&layout=compact" alt="thearshadkhan" /></p>
+| Project Name | Description |
+| :---: | :---- |
+| [My Portfolio Website](https://thearshadkhan.github.io/AK-PP/) | Portfolio website built using HTML5, CSS3, JavaScript, and React.js. |
+| [Brick & Beams](https://github.com/thearshadkhan/Brick-Beams) | A real estate platform for buying and selling properties using the MERN stack. |
+| [Smart Mirror](https://github.com/thearshadkhan/Smart-mirror-1) | An automated mirror using ESP32 with Google Assistant integration. |
+| [Swarm Drone](#) | Coming Soon. |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thearshadkhan&show_icons=true&locale=en" alt="thearshadkhan" /></p>
+<h1 align="center">Let's Get Connected</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thearshadkhan&" alt="thearshadkhan" /></p>
+I have started a community <b>TECHBENCHERS</b> to help fellow developers. Join the social accounts & Discord channel where I share knowledge and opportunities. I'm active on LinkedIn and Twitter. Feel free to reach out, I'd be happy to help!</p>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/isolated_banda" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:4472arshadkhan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=thearshadkhan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="thearshadkhan" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thearshadkhan&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="thearshadkhan" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thearshadkhan&theme=dark" alt="thearshadkhan" /></p>
+</div>
+
+[![thearshadkhan's GitHub | Stats](https://stats.quine.sh/thearshadkhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=thearshadkhan)
+
+<a href="https://github.com/thearshadkhan?tab=followers"><img src="https://img.shields.io/github/followers/thearshadkhan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+Total Views on Profile:<br><br>
+![Visitor Count](https://profile-counter.glitch.me/thearshadkhan/count.svg)
