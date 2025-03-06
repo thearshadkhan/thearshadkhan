@@ -1,5 +1,5 @@
 <!-- header image -->
-<a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="header_.png"/></a>
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank">Arshad Khan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
