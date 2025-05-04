@@ -35,14 +35,6 @@ I have experience in full-stack web development with a focus on the MERN stack. 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h1 align="center">Projects</h1>
-
-| Project Name | Description |
-| :---: | :---- |
-| [My Portfolio Website](https://thearshadkhan.github.io/AK-PP/) | Portfolio website built using HTML5, CSS3, JavaScript, and React.js. |
-| [Brick & Beams](https://github.com/thearshadkhan/Brick-Beams) | A real estate platform for buying and selling properties using the MERN stack. |
-| [Smart Mirror](https://github.com/thearshadkhan/Smart-mirror-1) | An automated mirror using ESP32 with Google Assistant integration. |
-| [Swarm Drone](#) | Coming Soon. |
 
 <h1 align="center">Let's Get Connected</h1>
 
